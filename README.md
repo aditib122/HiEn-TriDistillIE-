@@ -28,6 +28,9 @@ https://github.com/gita/Datasets
 The Hindi component is obtained from the publicly available Hindi Health Dataset on Kaggle:
 
 https://www.kaggle.com/code/kerneler/starter-hindi-health-dataset-909fee49-0
+## Citations
+Jain, A., and Arora, A. Named Entity Recognition in Hindi Using Hyperspace Analogue to Language and Conditional Random Field. Pertanika Journal of Science and Technology, UPM, vol. 26, no. 4, pp. 1801-1822, 2018.
+Jain, A., Tayal, D.K., and Arora, A. OntoHindi NER- An Ontology Based Novel Approach For Hindi Named Entity Recognition. International Journal of Artificial Intelligence, vol. 16, no. 2, pp. 1-36, 2018.
 
 ## Notes on reproducibility
 
