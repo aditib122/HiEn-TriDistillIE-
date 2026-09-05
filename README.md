@@ -31,4 +31,4 @@ https://www.kaggle.com/code/kerneler/starter-hindi-health-dataset-909fee49-0
 
 ## Notes on reproducibility
 
-Some heavy training cells were originally developed in Google Colab and may contain Google Drive paths or assumptions about locally saved teacher checkpoints and processed datasets. Update these paths before re-running the full training pipeline. The result-summary cells are included for inspection of the reported experimental outputs.
+Some heavy training cells were originally developed in Google Colab and may contain Google Drive paths or assumptions about locally saved teacher checkpoints and processed datasets. Update these paths before re-running the full training pipeline. The result-summary cells are included for the reported experimental outputs.
