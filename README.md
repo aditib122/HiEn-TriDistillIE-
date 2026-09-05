@@ -4,9 +4,9 @@ This repository contains a compact implementation and selected experimental resu
 
 ## Included configurations
 
-- **2-teacher:** MuRIL + BioBERT → IndicBERTv2 student
-- **3-teacher:** MuRIL + BioBERT + PubMedBERT → IndicBERTv2 student
-- **4-teacher:** MuRIL + XLM-R / BioBERT + XLM-R → IndicBERTv2 student
+- **2-teacher:** 
+- **3-teacher:** 
+- **4-teacher:** 
 
 
 ## Files
