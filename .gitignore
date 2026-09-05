@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.bin
